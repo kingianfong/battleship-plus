@@ -5,13 +5,13 @@ Our requirements were to create a functional game, and to impose a set of requir
 
 Enjoy!
 
-gameplay: battleships.py
-demonstration: demo.py
-
-Sample account:
-Username: player1
-Password: Battleships1!
-
+gameplay: battleships.py<br>
+demonstration: demo.py<br>
+<br>
+Sample account:<br>
+Username: player1<br>
+Password: Battleships1!<br>
+<br>
 On top of the requirements, additional features include:
 + Tracking of last login activity
 + Automatic saving of game progress
@@ -22,7 +22,7 @@ On top of the requirements, additional features include:
 + Basic GUI (Matplotlib)
 + Colours of plots corresponding to what was hit or not (red for opponent ships, matching colours for ships hit)
 + Automated demonstration of the game (ships placed randomly, player hits systematically, opponent hits randomly)
-
+<br>
 Known issues:
 + plots do not close properly using IDLE on Mac OS
 + plot legends do not get aligned consistently
